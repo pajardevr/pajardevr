@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Pajar
 
 [![Github](https://img.shields.io/github/followers/pajardevr?label=Follow&style=social)](https://github.com/pajardevr)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pajardevr.pajardevr" />
 
 I'm an Informatics Engineering undergraduate degree. Currently, I love to learn about frontend & backend new tech stacks. Not a maniac, but I am interested to look at new things. So, I can handle my brain to stop thinking about what the best tech should I use, hehe
 
