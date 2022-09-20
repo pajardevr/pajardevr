@@ -2,9 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/pajardevr?label=Follow&style=social)](https://github.com/pajardevr)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pajardevr.pajardevr" />
-
+<!--
 I'm a Software Developer. Currently, I love to learn about frontend & backend new tech stacks. Not a maniac, just interested to look at new things. 
-
+-->
 <!-- Light Mode -->
 <!--
 <div align="center"> 
